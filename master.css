@@ -1,0 +1,37 @@
+body
+{
+  background-color: beige;
+  color: black;
+  font-family:helvetica,arial;
+  text-align: center;
+}
+
+h4
+{
+  color: #c60b64;
+  margin-top=4rem;
+  margin-bottom=2rem;
+}
+
+h5
+{
+  text-align: center;
+ border: 3px groove #c60b64;
+  margin-top=2rem;
+  margin-bottom=2.5rem;
+}
+
+p
+{
+
+  margin-top=3rem;
+  margin-bottom=2rem;
+}
+
+p
+{
+  text-align: center;
+ border: 3px groove #FFFF33;
+  margin-top=2rem;
+  margin-bottom=3.4rem;
+}
